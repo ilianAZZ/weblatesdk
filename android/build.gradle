@@ -26,7 +26,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 31
-    namespace 'com.weblate.sdk'
+    namespace 'com.weblate.sdk.weblate_sdk'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
